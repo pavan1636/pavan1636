@@ -82,15 +82,7 @@ Business website and enquiry platform deployed on AWS for international B2B lead
 **Repository:** https://github.com/pavan1636/srilaxmiindustries.com<br>
 **Live site:** https://srilaxmiindustries.com
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan1636&show_icons=true&theme=default&hide_border=true" alt="Pavan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan1636&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
 
 ## Currently Improving
 
