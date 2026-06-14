@@ -79,7 +79,7 @@ Business website and enquiry platform deployed on AWS for international B2B lead
 - Automated Linux server setup, PostgreSQL backups to S3, and uptime checks with Bash scripts.
 - Configured Datadog for Docker metrics, system monitoring, and Express.js access logs.
 
-**Repository:** https://github.com/pavan1636/srilaxmiindustries.com<br>
+**Repository:** https://github.com/pavan1636/srilaxmi-devops<br>
 **Live site:** https://srilaxmiindustries.com
 
 
